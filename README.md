@@ -21,6 +21,15 @@ It is one of my favourite place since childhood . **Switzerland** is known for b
 
 [Aboutme](https://github.com/harshu8118/assignment2-Pinninti/blob/main/AboutMe.md)
 
+***
+# Table
+Table describes the food items that are famous in india
+|**Food**|__Location__|**Cost**|
+| --- | --- | --- |
+|Biryani|Hyderabad| $4 |
+|Bongulo chicken |vizag| $3 |
+| kulfi | warangal| $1|
+
 
 
     
