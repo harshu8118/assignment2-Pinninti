@@ -44,6 +44,7 @@ Table describes the food items that are famous in india
 Link to the Oriented area of a triangle :
 <https://www.geeksforgeeks.org/orientation-3-ordered-points/>
 
+```
  int signed_area_parallelogram(point2d p1, point2d p2, point2d p3) {
     return cross(p2 - p1, p3 - p2);
 }
@@ -59,6 +60,7 @@ bool clockwise(point2d p1, point2d p2, point2d p3) {
 bool counter_clockwise(point2d p1, point2d p2, point2d p3) {
     return signed_area_parallelogram(p1, p2, p3) > 0;
 }  
+```
 
 Link for the source code
 
