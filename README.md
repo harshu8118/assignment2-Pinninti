@@ -62,6 +62,5 @@ bool counter_clockwise(point2d p1, point2d p2, point2d p3) {
 
 Link for the source code
 
-<https://cp-algorithms.com/geometry/oriented-triangle-area.html/>
-
+<https://cp-algorithms.com/geometry/oriented-triangle-area.html>
     
