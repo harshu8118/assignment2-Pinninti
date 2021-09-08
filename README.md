@@ -19,7 +19,7 @@ It is one of my favourite place since childhood . **Switzerland** is known for b
  - Novels
 
 
-[Aboutme](https://github.com/harshu8118/assignment2-Pinninti/blob/main/AboutMe.md)
+[Aboutme](AboutMe.md)
 
 ***
 # Table
@@ -30,6 +30,11 @@ Table describes the food items that are famous in india
 |Bongulo chicken |vizag| $3 |
 | kulfi | warangal| $1|
 
+***
+# Pithy Quotes
+>You know, Hobbes, some days even my lucky rocketship underpants don't help. *Bill Watterson*
+>Even if we don't have the power to choose where we come from, we can still choose where we go from there. *Stephen Chbosky*
+  
 
 
     
