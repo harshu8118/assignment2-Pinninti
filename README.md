@@ -32,7 +32,9 @@ Table describes the food items that are famous in india
 
 ***
 # Pithy Quotes
+
 >You know, Hobbes, some days even my lucky rocketship underpants don't help. *Bill Watterson*
+
 > We can still choose where we go from there. *Stephen Chbosky*
   
 
