@@ -31,6 +31,7 @@ Table describes the food items that are famous in india
 |Biryani|Hyderabad| $4 |
 |Bongulo chicken |vizag| $3 |
 | kulfi | warangal| $1|
+|Mango|Telangana|$150
 
 ***
 # Pithy Quotes
